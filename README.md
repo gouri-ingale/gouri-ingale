@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gouri Ingale</h1>
 <h3 align="left">A Computer Science Engineering Student</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 - 🌱 I’m currently learning Backend Developement
 
 <h3 align="left">Connect with me:</h3>
